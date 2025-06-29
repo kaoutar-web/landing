@@ -6,8 +6,8 @@ const Header = () => {
     <header className="header">
       <div className="logo">MonSite</div>
       <nav>
-        <a href="#features">Fonctionnalités</a>
-        <a href="#contact">Contact</a>
+        <a href="/landing/features">Fonctionnalités</a>
+        <a href="/landing/contact">Contact</a>
         <button className="cta-button">S'inscrire</button>
       </nav>
     </header>
